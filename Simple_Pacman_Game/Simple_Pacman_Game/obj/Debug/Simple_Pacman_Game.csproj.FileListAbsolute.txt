@@ -1,0 +1,10 @@
+C:\Users\lizai\source\repos\Simple_Pacman_Game\Simple_Pacman_Game\bin\Debug\Simple_Pacman_Game.exe.config
+C:\Users\lizai\source\repos\Simple_Pacman_Game\Simple_Pacman_Game\bin\Debug\Simple_Pacman_Game.exe
+C:\Users\lizai\source\repos\Simple_Pacman_Game\Simple_Pacman_Game\bin\Debug\Simple_Pacman_Game.pdb
+C:\Users\lizai\source\repos\Simple_Pacman_Game\Simple_Pacman_Game\obj\Debug\Simple_Pacman_Game.csprojAssemblyReference.cache
+C:\Users\lizai\source\repos\Simple_Pacman_Game\Simple_Pacman_Game\obj\Debug\Simple_Pacman_Game.Form1.resources
+C:\Users\lizai\source\repos\Simple_Pacman_Game\Simple_Pacman_Game\obj\Debug\Simple_Pacman_Game.Properties.Resources.resources
+C:\Users\lizai\source\repos\Simple_Pacman_Game\Simple_Pacman_Game\obj\Debug\Simple_Pacman_Game.csproj.GenerateResource.cache
+C:\Users\lizai\source\repos\Simple_Pacman_Game\Simple_Pacman_Game\obj\Debug\Simple_Pacman_Game.csproj.CoreCompileInputs.cache
+C:\Users\lizai\source\repos\Simple_Pacman_Game\Simple_Pacman_Game\obj\Debug\Simple_Pacman_Game.exe
+C:\Users\lizai\source\repos\Simple_Pacman_Game\Simple_Pacman_Game\obj\Debug\Simple_Pacman_Game.pdb
